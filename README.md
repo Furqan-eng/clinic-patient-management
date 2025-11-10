@@ -34,4 +34,4 @@ This system supports full **CRUD operations**, search and filter features, and a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/clinic-patient-management.git
+   git clone https://github.com/Furqan-eng/clinic-patient-management.git
